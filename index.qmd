@@ -1,11 +1,37 @@
 ---
-title: "ZohaibIqbal07.github.io"
+title: Syed Zoahib Iqbal
+image: img/profile.png
+page-layout: full
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/Zohaib_Shah1209
+    - icon: github
+      text: Github
+      href: https://github.com/ZohaibIqbal07
+    - icon: email
+      text: Email
+      href: mailto:zohaib_07@hotmail.com
+    - icon: CV
+      text: CV
+      href: https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: http://linkedin.com/in/szohaibb
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+A results-driven Operation Analyst with a robust
+foundation in accounting and finance. Proficient in
+enhancing processes, conducting business analysis,
+and optimizing operational efficiency. With extensive
+expertise in leveraging advanced analytical tools, I
+drive business performance and identify opportunities
+for cost savings, revenue optimization, and risk
+mitigation. Committed to delivering strategic insights
+and fostering operational excellence, I seek dynamic
+opportunities to contribute to organizational success in
+the role of an Operation Analyst. Let’s connect!
