@@ -1,6 +1,6 @@
 ---
 title: Syed Zoahib Iqbal
-image: img/profile_one.png
+image: img/profile_one.jpg
 page-layout: full
 about:
   template: trestles
