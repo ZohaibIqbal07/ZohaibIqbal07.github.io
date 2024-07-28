@@ -18,7 +18,7 @@ about:
       href: mailto:zohaib_07@hotmail.com
     - icon: CV
       text: CV
-      href: https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf
+      href: https://drive.google.com/file/d/11faUWp3ZBl2h3cJl1eBTZIiPz2HtzDmR/view?usp=sharing
     - icon: linkedin
       text: LinkedIn
       href: http://linkedin.com/in/szohaibb
